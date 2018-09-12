@@ -1,4 +1,4 @@
-# leetcode
+# JS算法
 
 | number | problem | language | difficulty |
 | :--- | :--- | :--- | :--- |
