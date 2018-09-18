@@ -1,6 +1,6 @@
 # leetcode
 
-记录leetcode解题思路
+记录leetcode解题思路，整书地址：https://hzu-zuoxiong.gitbooks.io/leetcode/content/
 
 | number | problem | language | difficulty |
 | :--- | :--- | :--- | :--- |
