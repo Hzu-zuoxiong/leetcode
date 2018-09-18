@@ -9,6 +9,7 @@
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/description/) | [JavaScript](/hui-wen-shu.md) | easy |
 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/) | [JavaScript](/zui-chang-gong-gong-qian-zhui.md) | easy |
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/) | [JavaScript](/you-xiao-de-kuo-hao.md) | easy |
+| 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) | [JavaScript](/he-bing-liang-ge-you-xu-lian-biao.md) | easy |
 | 26 | [删除数组重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](/shan-chu-zhong-fu-xiang.md) | easy |
 
 
