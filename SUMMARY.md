@@ -6,4 +6,5 @@
 * [回文数](hui-wen-shu.md)
 * [有效的括号](you-xiao-de-kuo-hao.md)
 * [删除数组重复项](shan-chu-zhong-fu-xiang.md)
+* [最长公共前缀](zui-chang-gong-gong-qian-zhui.md)
 
