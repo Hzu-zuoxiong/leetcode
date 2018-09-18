@@ -1,6 +1,6 @@
 # leetcode
 
-记录leetcode解题思路，整书地址：https://hzu-zuoxiong.gitbooks.io/leetcode/content/
+记录leetcode解题思路，整书地址：[https://hzu-zuoxiong.gitbooks.io/leetcode/content/](https://hzu-zuoxiong.gitbooks.io/leetcode/content/)
 
 | number | problem | language | difficulty |
 | :--- | :--- | :--- | :--- |
@@ -11,6 +11,7 @@
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/) | [JavaScript](/you-xiao-de-kuo-hao.md) | easy |
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) | [JavaScript](/he-bing-liang-ge-you-xu-lian-biao.md) | easy |
 | 26 | [删除数组重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](/shan-chu-zhong-fu-xiang.md) | easy |
+| 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [JavaScript](/yi-chu-yuan-su.md) | easy |
 
 
 
