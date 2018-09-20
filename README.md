@@ -12,6 +12,7 @@
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) | [JavaScript](/he-bing-liang-ge-you-xu-lian-biao.md) | easy |
 | 26 | [删除数组重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](/shan-chu-zhong-fu-xiang.md) | easy |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [JavaScript](/yi-chu-yuan-su.md) | easy |
+| 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | J[avaScript](/zui-da-zi-xu-he.md) | easy |
 
 
 
